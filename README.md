@@ -1,4 +1,5 @@
 # 💻 Tufail Ahmad Dar
+![Visitor Count](https://profile-counter.glitch.me/TufailAh/count.svg)
 
 ### 👨‍💻 About Me
 - 🎓 Currently in my 5th semester of undergraduate studies, holding a diploma in DBMS, Networking, and programming.
