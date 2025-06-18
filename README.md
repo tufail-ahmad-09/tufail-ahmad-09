@@ -1,5 +1,6 @@
 # 💻 Tufail Ahmad Dar
-![Visitor Count](https://profile-counter.glitch.me/TufailAh/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/tufail-ahmad-09/count.svg)
 
 ### 👨‍💻 About Me
 - 🎓 Currently in my 5th semester of undergraduate studies, holding a diploma in DBMS, Networking, and programming.
@@ -43,17 +44,21 @@
 
 ### 🏆 Achievements
 - Earned Google Developers' badges in Machine Learning.
+
 ---
 
 ### 🌍 Let's Connect!
 - 📧 **Email**: tufaildar8899@gmail.com
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/tufail-ahmad-329473326/)
+- 💼 **LinkedIn**: [Tufail Ahmad LinkedIn](https://www.linkedin.com/in/tufail-ahmad-329473326/)
+
 ---
 
 ### 📊 GitHub Stats
-![Tufail's GitHub stats](https://github-readme-stats.vercel.app/api?username=TufailAh&show_icons=true&theme=radical)
+![Tufail's GitHub stats](https://github-readme-stats.vercel.app/api?username=tufail-ahmad-09&show_icons=true&theme=radical)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/tufail-ahmad-09/count.svg)
+
+### 🌟 Visitor Counter
+[![Visitor Count](https://profile-counter.glitch.me/tufail-ahmad-09/count.svg)](https://github.com/tufail-ahmad-09)
 
 🤝 **Looking forward to collaborating on open-source projects and contributing to innovative solutions!**
