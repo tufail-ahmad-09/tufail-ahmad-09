@@ -1,7 +1,5 @@
 # 💻 Tufail Ahmad Dar
 
-![Visitor Count](https://profile-counter.glitch.me/tufail-ahmad-09/count.svg)
-
 ### 👨‍💻 About Me
 - 🎓 Currently in my 5th semester of undergraduate studies, holding a diploma in DBMS, Networking, and programming.
 - 🌟 Passionate about Machine Learning, Data Science, and Full-Stack Development.
@@ -59,6 +57,4 @@
 ---
 
 ### 🌟 Visitor Counter
-[![Visitor Count](https://profile-counter.glitch.me/tufail-ahmad-09/count.svg)](https://github.com/tufail-ahmad-09)
-
-🤝 **Looking forward to collaborating on open-source projects and contributing to innovative solutions!**
+![Visitor Count](https://profile-counter.glitch.me/tufail-ahmad-09/count.svg)
