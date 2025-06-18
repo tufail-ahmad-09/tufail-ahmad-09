@@ -1,7 +1,7 @@
 # 💻 Tufail Ahmad Dar
 
 ### 👨‍💻 About Me
-- 🎓 Currently in my 5th semester of undergraduate studies, holding a diploma in DBMS, Networking, and programming.
+- 🎓 Currently persuing bachelors in Information Science, holding a diploma in DBMS, Networking, and programming.
 - 🌟 Passionate about Machine Learning, Data Science, and Full-Stack Development.
 - 🚀 Working on innovative AI-powered projects like **SmartDataPrep** and **PREPRO**.
 - 💡 On a mission to build tools that enhance developer productivity and learning experiences.
@@ -57,4 +57,4 @@
 ---
 
 ### 🌟 Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/tufail-ahmad-09/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tufail-ahmad-09)
