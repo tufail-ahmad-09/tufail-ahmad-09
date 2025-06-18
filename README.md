@@ -1,16 +1,57 @@
-## Hi there 👋
+# 💻 Tufail Ahmad Dar
 
-<!--
-**tufail-ahmad-09/tufail-ahmad-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 Currently in my 5th semester of undergraduate studies, holding a diploma in DBMS, Networking, and programming.
+- 🌟 Passionate about Machine Learning, Data Science, and Full-Stack Development.
+- 🚀 Working on innovative AI-powered projects like **SmartDataPrep** and **PREPRO**.
+- 💡 On a mission to build tools that enhance developer productivity and learning experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+#### **Programming Languages**
+- Python, C, C++, Java, JavaScript
+
+#### **Frameworks & Libraries**
+- React, Flask, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib
+
+#### **Tools & Technologies**
+- Redis, MongoDB, DevOps (Power BI, Tableau), Docker, Git, Jupyter Notebook
+
+#### **Areas of Expertise**
+- Machine Learning Model Development
+- Natural Language Processing
+- Data Cleaning & Preprocessing
+- Full-Stack Development
+
+---
+
+### 🌟 Current Projects
+- **PREPRO**: A data cleaning and preprocessing tool for ML engineers.
+- **AI Debugging Assistant**: A step toward a robust open-source debugging system.
+- **Personalized AI Search Engine**: Redefining search experiences.
+
+---
+
+### ✅ Completed Projects
+- 🖼️ **Image Classification Model**
+- 📄 **OCR Text and Document Analysis**
+- 🏠 **House Price Prediction Model**
+
+---
+
+### 🏆 Achievements
+- Earned Google Developers' badges in Machine Learning.
+---
+
+### 🌍 Let's Connect!
+- 📧 **Email**: tufaildar8899@gmail.com
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/tufail-ahmad-329473326/)
+---
+
+### 📊 GitHub Stats
+![Tufail's GitHub stats](https://github-readme-stats.vercel.app/api?username=TufailAh&show_icons=true&theme=radical)
+
+---
+
+🤝 **Looking forward to collaborating on open-source projects and contributing to innovative solutions!**
