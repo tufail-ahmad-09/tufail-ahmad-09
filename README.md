@@ -55,6 +55,3 @@
 ![Tufail's GitHub stats](https://github-readme-stats.vercel.app/api?username=tufail-ahmad-09&show_icons=true&theme=radical)
 
 ---
-
-### 🌟 Visitor Counter
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tufail-ahmad-09)
